@@ -1,0 +1,633 @@
+{
+  "total": 8,
+  "limit": 1500,
+  "skip": 0,
+  "data": [
+    {
+      "_id": "5c82b1d30e374849a8c6026f",
+      "name": "Shipwrecked",
+      "objectives": [
+        {
+          "_id": "5c82b13b556ece0000d9e5b3",
+          "title": "Find the other survivor",
+          "conditions": [],
+          "experience": 100,
+          "description": "It seems like someone else has survived. Follow the footprints to investigate.",
+          "updates": [
+            {
+              "_id": "5da66a67343abc00003ae606",
+              "description": "You have located the other survivor. The woman is someone you recognize, a former prisoner from the ship - just like you.",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "_id": "5c82b1e9556ece0000d9e5b4",
+          "title": "Leave the island",
+          "conditions": [],
+          "parent": "5c82b13b556ece0000d9e5b3",
+          "experience": 100,
+          "description": "You have joined forces with your fellow survivor, a nomad from the Phenris Woodlands. Together, you and Rasleen must find a way to escape from the Isle of Dusk.",
+          "updates": []
+        }
+      ],
+      "_created": "2019-03-08T18:17:55.153Z",
+      "__v": 0,
+      "_updated": "2019-10-16T01:00:05.702Z",
+      "description": "You have been stranded on a desolate island."
+    },
+    {
+      "_id": "5c82b9330e3748809dc60273",
+      "name": "Affliction of the Mind",
+      "objectives": [
+        {
+          "_id": "5c82b8b7556ece0000d9e5b7",
+          "title": "Seek treatment for your affliction",
+          "conditions": [],
+          "experience": 50,
+          "description": "Perhaps there is a medical professional who is able to provide the assistance you need? Keep your eyes open.",
+          "updates": []
+        },
+        {
+          "_id": "5c82b8cf556ece0000d9e5b8",
+          "title": "Find the Ephemeral Lodge on Graefir Island",
+          "conditions": [],
+          "parent": "5c82b8b7556ece0000d9e5b7",
+          "description": "You have visited the infirmary in the Town of Set. Unfortunately, the monks in the infirmary lacked the necessary expertise to treat your affliction. Instead, they referred you to the druids of the Ephemeral Lodge. These druids can be found on Graefir Island.",
+          "updates": [
+            {
+              "_id": "5e5fa3f854a5990000da7942",
+              "description": "The monk in the infirmary said that Calvino the Boatman should be able to take you across the river to Graefir Island. He can usually be found in the Harbor of Set.",
+              "conditions": [
+                {
+                  "parameters": [
+                    [
+                      "5da3400795cdcec8466d186d",
+                      "5da34120f7325f0000402c0c",
+                      "5da3421ef7325f0000402c13",
+                      "5da3422ff7325f0000402c14"
+                    ]
+                  ],
+                  "_id": "5e5fa4c4fe7d0d1c9f6c5081",
+                  "type": "hasSeenOptionOutcome"
+                }
+              ]
+            },
+            {
+              "_id": "5e5fa021093b480000a59e10",
+              "description": "You asked Ato Triasteen about the Ephemeral Lodge, who referred to the druid hermits as \"estranged brethren\". He was unwilling to let you use the ship to travel across the river. In any case, this would not be possible without a proper crew.",
+              "conditions": [
+                {
+                  "parameters": [
+                    [
+                      "5d168f52ebd3dc020854cb0a",
+                      "5d16976fab3c0300005d56b3",
+                      "5d16c633ab3c0300005d56ed",
+                      "5d16c661ab3c0300005d56ee"
+                    ]
+                  ],
+                  "_id": "5e5fa0c7fe7d0d479b6c5010",
+                  "type": "hasSeenOptionOutcome"
+                }
+              ]
+            },
+            {
+              "_id": "5e5fa0f123cfc90000eb39b6",
+              "description": "According to a fisherman in the Harbor of Set, it seems that Calvino the Boatman has disappeared, possibly as a result of the recent invasion of bandits.",
+              "conditions": [
+                {
+                  "parameters": [
+                    [
+                      "5d53d7ef8335b4d233884f21",
+                      "5d53e02ef78ace00004fd6dc",
+                      "5d53e12ff78ace00004fd6e6",
+                      "5d53e140f78ace00004fd6e7"
+                    ]
+                  ],
+                  "_id": "5e5fa1a2fe7d0d05b86c5029",
+                  "type": "hasSeenOptionOutcome"
+                }
+              ]
+            }
+          ],
+          "experience": 50
+        },
+        {
+          "_id": "5da4a560701bc0000094057d",
+          "conditions": [],
+          "updates": [
+            {
+              "_id": "5da4a72f701bc0000094057e",
+              "conditions": [],
+              "description": "Having tasted the Essence of Black Lotus, you experienced an inner journey, which revealed a horrifying truth about your past: the Khiris Cartel used their mind-control techniques in order to force you to kill your own parents. The command was given by Mantis himself."
+            },
+            {
+              "_id": "5da4a968701bc0000094057f",
+              "conditions": [],
+              "description": "According to Sage Ephemeron, it remains to be seen whether or not you will be able to resist the mind-control techniques of the Khiris Cartel."
+            }
+          ],
+          "title": "Seek assistance from the druids",
+          "description": "You and Rasleen have traveled to the Ephemeral Lodge on Graefir Island. Hopefully, the druids will be able to cure your affliction.",
+          "experience": 100,
+          "parent": "5c82b8cf556ece0000d9e5b8"
+        }
+      ],
+      "_created": "2019-03-08T18:51:35.421Z",
+      "_updated": "2020-03-04T12:53:24.596Z",
+      "description": "You and many others were taken prisoner aboard a ship, where a mysterious organization subjected you to various forms of torture. As a result, your mind is a garbled mess of fractured memories. You must find a way to put the broken pieces back in order."
+    },
+    {
+      "_id": "5c8e22cc1902884a12f94ce2",
+      "name": "Dusk Megalith",
+      "objectives": [
+        {
+          "_id": "5caaf31090542e00003c572c",
+          "title": "Find the antidote",
+          "conditions": [
+            {
+              "parameters": [
+                "5caabbcf37903537d9b22137",
+                "equals",
+                1
+              ],
+              "_id": "5caaf6d137903519f7b221a9",
+              "type": "hasItem"
+            }
+          ],
+          "experience": 75,
+          "description": "Rasleen was injured by a poison-tipped arrow. You must find some kind of antidote before it’s too late.",
+          "updates": []
+        },
+        {
+          "_id": "5caaf31190542e00003c572d",
+          "title": "Find the ship",
+          "conditions": [
+            {
+              "parameters": [
+                [
+                  "5cb29d96c065f09bd0942e04",
+                  "5cb29ca0e78b8c0000c8df29"
+                ]
+              ],
+              "_id": "5cbe6647c065f0191e9458d9",
+              "type": "hasSeenNode"
+            }
+          ],
+          "experience": 25,
+          "description": "Rasleen claims to have seen a ship sailing north along the eastern shores.",
+          "updates": [
+            {
+              "_id": "5e5f987ef89bb700000295e2",
+              "conditions": [],
+              "description": "You have discovered the ship that Rasleen was talking about. It can be found in the secret harbor known as Port Spire."
+            }
+          ]
+        },
+        {
+          "_id": "5caaf69590542e00003c572e",
+          "title": "Deliver the antidote to Rasleen",
+          "conditions": [],
+          "parent": "5caaf31090542e00003c572c",
+          "experience": 75,
+          "description": "Rasleen was injured by a poison-tipped arrow. You have found the antidote. She waits in the ruinous Pylon of Dusk Megalith.",
+          "updates": [
+            {
+              "_id": "5e5f9419f89bb700000295df",
+              "description": "Rasleen has vanished from her hiding place. It seems that some of the druids have returned from the frontlines. Possibly, Rasleen's disappearance is a result of their sudden presence. Maybe she's hiding. Maybe she's been captured, or worse...",
+              "conditions": []
+            },
+            {
+              "_id": "5e5f963af89bb700000295e0",
+              "description": "You spoke with a druid war chief, who confirmed that a nomad mercenary was captured and imprisoned recently.",
+              "conditions": []
+            },
+            {
+              "_id": "5e5f965df89bb700000295e1",
+              "description": "You encountered an old druid, who introduced himself as Ato Triasteen the Deserter. He told you that Rasleen has been captured by the other druids, who brought her to a prison below ground. Having no desire to stay and fight in the war on the Isle of Dusk, the old druid suggested that you liberate Rasleen and the other prisoners. Together, you would be able to steal the ship and escape from the island. Before he left, Ato mentioned that he will be guarding the ship while you explore the prison. The ship can be found in Port Spire.",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "_id": "5cbe668aff1861000014aab9",
+          "title": "Handle the prison guards",
+          "conditions": [],
+          "parent": "5caaf69590542e00003c572e",
+          "experience": 25,
+          "description": "You have delivered the antidote to Rasleen, who is currently recovering in her cell in the prison of Dusk Megalith. You told her about the plans to liberate the other prisoners in order to assemble a crew. Before this can happen, however, the prison guards must be taken care of – one way or another. Rasleen waits in her cell in the east wing of the underground prison (Cell # 19).",
+          "updates": [
+            {
+              "_id": "5e5f994df89bb700000295e3",
+              "description": "The prison guards have been dealt with. Rasleen should be informed.",
+              "conditions": [
+                {
+                  "parameters": [
+                    [
+                      "5cb8e229c065f06f2c9439f4",
+                      "5cb8e3c7f797be000047f1ec"
+                    ]
+                  ],
+                  "_id": "5e5f9d0efe7d0da9726c4fe0",
+                  "type": "hasSeenNode"
+                },
+                {
+                  "parameters": [
+                    [
+                      "5cb91394c065f084f4943b2f",
+                      "5cb92eb9f797be000047f23c"
+                    ]
+                  ],
+                  "_id": "5e5f9d0efe7d0d266c6c4fdf",
+                  "type": "hasSeenNode"
+                },
+                {
+                  "parameters": [
+                    [
+                      "5cba6f4cc065f01449944ddd",
+                      "5cbba0832b878e000063fb33"
+                    ]
+                  ],
+                  "_id": "5e5f9d0efe7d0d1e6c6c4fde",
+                  "type": "hasSeenNode"
+                },
+                {
+                  "parameters": [
+                    [
+                      "5c8e22cc1902884a12f94ce2",
+                      "5caaf69590542e00003c572e"
+                    ]
+                  ],
+                  "_id": "5e5f9d0efe7d0d2c1c6c4fdd",
+                  "type": "hasCompletedObjective"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "_created": "2019-03-17T10:34:52.048Z",
+      "_updated": "2020-03-04T12:22:00.085Z",
+      "__v": 0,
+      "description": "A war has erupted between the druids and cultists on the Isle of Dusk. You have discovered the ruins of Dusk Megalith, a druid stronghold. Rasleen is convinced that the druids are hiding a ship somewhere nearby. She believes that this would be the most opportune moment to steal the ship, since the druids are currently preoccupied with the war."
+    },
+    {
+      "_id": "5caba4683790352caab224ad",
+      "name": "The Stingray",
+      "objectives": [
+        {
+          "_id": "5cab9f0a7807500000d2a561",
+          "conditions": [],
+          "experience": 75,
+          "title": "Find out what the symbol means",
+          "description": "What is the significance of the stingray? Hopefully, someone knows more about this symbol and what it represents.",
+          "updates": []
+        },
+        {
+          "_id": "5ce3f31e12e84d0000cc24d3",
+          "title": "Investigate the Khiris Cartel",
+          "conditions": [],
+          "parent": "5cab9f0a7807500000d2a561",
+          "description": "You have learned that the Stingray is the symbol of the Khiris Cartel, a criminal organization which profits from opium and slavery.",
+          "updates": [
+            {
+              "_id": "5da813127ec7b20000b73e38",
+              "conditions": [],
+              "description": "You rescued the mayor of Set from captivity, a man called Chief Hadrian Trout. He told you that he can provide information about the Khiris Cartel. Seek out his office in the Town of Set. It's located near the Wolf Shrine."
+            },
+            {
+              "_id": "5da634fdb465060000827fd2",
+              "description": "You received Hadrian Trout's reports about the Khiris Cartel and the Tusk Mob. You should discuss your findings with Rasleen.",
+              "conditions": []
+            }
+          ],
+          "experience": 100
+        },
+        {
+          "_id": "5ce3f8a212e84d0000cc24db",
+          "title": "Find Mantis the Crime Lord",
+          "conditions": [],
+          "parent": "5cab9f0a7807500000d2a561",
+          "experience": 200,
+          "description": "Mantis the Crime Lord seems to be an important figure in the Khiris Cartel, the organization which captured and tortured you. He was last seen on Roe Island.",
+          "updates": [
+            {
+              "_id": "5da6314eb465060000827fcf",
+              "conditions": [],
+              "description": "You encountered Mantis when you arrived in the Town of Set. For some reason, you and Rasleen were unable to confront him. Strangely, it seemed like he was able to control you like a puppetmaster. Having told you what to do, he simply walked away."
+            },
+            {
+              "_id": "5da633a2b465060000827fd0",
+              "conditions": [],
+              "description": "You have learned that Mantis the Crime Lord has left Roe Island. Supposedly, he was on his way to the neighboring Isle of Bast."
+            },
+            {
+              "_id": "5da63499b465060000827fd1",
+              "description": "You encountered Mantis on the Isle of Bast. Violence ensued. You barely survived. Rasleen did not.",
+              "conditions": []
+            },
+            {
+              "_id": "5dbb406fde1815000038d2af",
+              "conditions": [],
+              "description": "Having discovered the smuggler's hideout on the Isle of Bast, you learned that Mantis had already departed. His next destination is unknown, for the time being."
+            },
+            {
+              "_id": "5dbb4165de1815000038d2b0",
+              "conditions": [],
+              "description": "The Ironclad Vagrant is convinced that Mantis will travel to the city of Roeburgh, where the crime lord owns a secret palace. Supposedly, this palace is located in the noble's quarters. While it may seem questionable to rely on the words of a lunatic, you currently have no other useful information."
+            },
+            {
+              "_id": "5dcadfe968c2c40000e0aba7",
+              "conditions": [],
+              "description": "A Roeburgh Militia officer told you about the Noble Heights, which is located in the eastern district of the besieged capital. A so-called \"city within the city\", the area has its own walls. Remembering the words of the Ironclad Vagrant, it seems plausible that Mantis could be found in such an exclusive place, as the crime lord \"prefers the company of those with deep coffers.\""
+            }
+          ]
+        }
+      ],
+      "_created": "2019-04-08T19:43:36.653Z",
+      "_updated": "2020-02-04T09:15:07.388Z",
+      "__v": 0,
+      "description": "You awakened on a beach. A silver brooch was buried in the sand. Upon closer scrutiny, the silver brooch has been sculpted to resemble a stingray. The mere sight of this symbol provoked memories of torture and imprisonment. Clearly, you have been traumatized by these experiences – but who is responsible? And why did this happen to you?"
+    },
+    {
+      "_id": "5d7cd57de6ecf369a5a2a235",
+      "name": "The Tusk Mob",
+      "objectives": [
+        {
+          "_id": "5da61c6ab465060000827fcc",
+          "title": "Talk to Rasleen",
+          "conditions": [],
+          "updates": [
+            {
+              "_id": "5da678af0824a50000fc56e3",
+              "conditions": [],
+              "description": "You shared the information with Rasleen. She wants to travel with you to the Isle of Bast, in order to chase down Mantis the Crime Lord. Let her know when you're ready to leave."
+            },
+            {
+              "_id": "5da67f990824a50000fc56f0",
+              "description": "Considering what happened during your previous encounter with Mantis, Rasleen thinks that it would be unwise to confront him before you have cured the affliction of the mind. Otherwise, you would be unable to disobey the crime lord's commands.",
+              "conditions": []
+            }
+          ],
+          "description": "You have received information about the Tusk Mob and their connection to the Khiris Cartel. You should discuss your findings with Rasleen.",
+          "experience": 10
+        },
+        {
+          "_id": "5da61e87b465060000827fcd",
+          "title": "Travel to the Isle of Bast",
+          "conditions": [],
+          "updates": [],
+          "parent": "5da61c6ab465060000827fcc",
+          "experience": 10,
+          "description": "Calvino the Boatman can take you to the Isle of Bast. You can find him in the Harbor of Set."
+        },
+        {
+          "_id": "5d7cd56afd4f2b00002933d7",
+          "title": "Find the smuggler's hideout",
+          "conditions": [],
+          "updates": [
+            {
+              "_id": "5da62e62b465060000827fce",
+              "conditions": [],
+              "description": "Against all odds, you survived an encounter with Mantis the Crime Lord. Unfortunately, Rasleen was killed. You are now alone in your pursuit of those who enslaved you."
+            },
+            {
+              "_id": "5da63d47351e170000e8c33a",
+              "description": "Arturo the Guardsman told you about a great tower on the Isle of Bast. He said that the smuggler's hideout can be seen from the top of the tower.",
+              "conditions": []
+            },
+            {
+              "_id": "5da655fe850bf90000a8b999",
+              "description": "Arturo the Guardsman told you about a secret graveyard where many treasures are buried. It's located south of the Dead Forest on the Isle of Bast.",
+              "conditions": []
+            },
+            {
+              "_id": "5dbb3fefde1815000038d2ad",
+              "description": "You have discovered the smuggler's hideout.",
+              "conditions": []
+            }
+          ],
+          "experience": 50,
+          "description": "The Tusk Mob are the rulers of the Isle of Bast. Find their secret headquarters in order to advance your pursuit of Mantis the Crime Lord."
+        }
+      ],
+      "_created": "2019-09-14T11:56:45.555Z",
+      "_updated": "2020-03-04T12:41:28.135Z",
+      "__v": 0,
+      "description": "The Tusk Mob is a gang of smugglers who dwell on the Isle of Bast. Apparently, they are trying to form an alliance with the Khiris Cartel. You have learned that Mantis the Crime Lord is on his way to their secret headquarters."
+    },
+    {
+      "_id": "5d7d948be6ecf3562aa2a78e",
+      "name": "The Infernal Boundary",
+      "objectives": [
+        {
+          "_id": "5d7d94748f6bfe000068dc67",
+          "title": "Escape from the Underworld",
+          "conditions": [],
+          "experience": 100,
+          "updates": [],
+          "description": "There is no way to survive in this hostile environment. You must escape from the Underworld before it's too late."
+        }
+      ],
+      "_created": "2019-09-15T01:31:55.793Z",
+      "_updated": "2019-10-15T20:51:14.123Z",
+      "__v": 0,
+      "description": "You have discovered a gateway to the Underworld beneath the ruins of Dusk Megalith."
+    },
+    {
+      "_id": "5dc0af09ff2c19b893db8556",
+      "name": "A City Under Siege",
+      "description": "The capital of Roeburgh is under siege by foreign invaders. You have received information that Mantis the Crime Lord might be heading to the war-torn city.",
+      "objectives": [
+        {
+          "_id": "5dc0aeb4f30d06000051acde",
+          "title": "Travel to the city of Roeburgh",
+          "conditions": [
+            {
+              "parameters": [
+                [
+                  "5dd31ef2f75a9731d05982b4",
+                  "5dd326cb1808f70000ae76f4"
+                ]
+              ],
+              "_id": "5e332df9c676f4b70386699d",
+              "type": "hasSeenNode"
+            }
+          ],
+          "updates": [],
+          "experience": 20,
+          "description": "The Roeburgh Militia has commandeered the galley in order to send reinforcements to the besieged capital. The ship departs at sundown. You can find it in the Harbor of Set."
+        },
+        {
+          "_id": "5dc0aee1f30d06000051acdf",
+          "conditions": [],
+          "updates": [
+            {
+              "_id": "5dd678b99e3d480000b46edf",
+              "description": "The foreign invaders have amassed a large army on the western harbor. Marching in formation, they are approaching Hydran bridge.",
+              "conditions": []
+            }
+          ],
+          "title": "Cross the river",
+          "parent": "5dc0aeb4f30d06000051acde",
+          "experience": 50,
+          "description": "The western district has been ravaged by the foreign invaders. Make your way across the river in order to reach the eastern district."
+        },
+        {
+          "_id": "5dc0aef4f30d06000051ace0",
+          "title": "Find the secret palace",
+          "conditions": [],
+          "updates": [
+            {
+              "_id": "5def5eda63f2fe00007e0bab",
+              "description": "The innkeeper told you about a strange woman, who visited his establishment yesterday. She was wearing a silver brooch, just like the one in your possession.",
+              "conditions": []
+            },
+            {
+              "_id": "5def5f4163f2fe00007e0bac",
+              "conditions": [],
+              "description": "The innkeeper described the woman with the silver brooch. She had scars across her face and kept her hair in a thick braid, tied with a black ribbon."
+            },
+            {
+              "_id": "5def5fe163f2fe00007e0bad",
+              "description": "Having overheard your previous conversation with the innkeeper, the maid gave you a strange coin, explaining that she found it on the floor when she was cleaning up after the rowdy guests. According to the maid, this coin belonged to one of the men who accompanied the woman with the silver brooch.",
+              "conditions": []
+            },
+            {
+              "_id": "5df90da61bde2300008d0221",
+              "description": "According to the owner of the parlor house, the woman with the silver brooch is named Cleo Verdandi. She owns a gambling den, which is located close to Emerald Avenue.",
+              "conditions": []
+            },
+            {
+              "_id": "5e034e7146e611000006fd01",
+              "conditions": [],
+              "description": "You have learned where the secret palace is located. Known as the \"Sleep Temple\", it can be found among the private estates of Soma Gardens."
+            }
+          ],
+          "parent": "5dc0aee1f30d06000051acdf",
+          "experience": 100,
+          "description": "Supposedly, Mantis the Crime Lord resides in a secret palace, which can be found somewhere on the Noble Heights."
+        }
+      ],
+      "_created": "2019-11-04T23:06:49.833Z",
+      "_updated": "2020-01-30T19:26:49.058Z",
+      "__v": 0
+    },
+    {
+      "_id": "5e3ead846a062f0983162ed9",
+      "name": "Holy Concern",
+      "_created": "2020-02-08T12:45:56.965Z",
+      "_updated": "2020-02-26T01:04:18.163Z",
+      "objectives": [
+        {
+          "_id": "5e4efd2f72e924000072277f",
+          "title": "Find the missing servant",
+          "conditions": [],
+          "updates": [],
+          "description": "The preacher wants you to check up on his servant, who has been missing for a while. The servant is named Laurence. He lives in the Servants' Quarters, south of Lord's Boulevard.",
+          "experience": 10
+        },
+        {
+          "_id": "5e4f701f20372d0000a6544f",
+          "title": "Return to the preacher",
+          "conditions": [],
+          "updates": [
+            {
+              "_id": "5e5400a759ca2c00005a0833",
+              "description": "You told the preacher about the debt collectors who killed Laurence the Servant. The preacher wants you to track them down and bring them to justice.",
+              "conditions": []
+            },
+            {
+              "_id": "5e544b18309510000089de65",
+              "description": "The debt collectors got away. You should inform the preacher.",
+              "conditions": []
+            },
+            {
+              "_id": "5e544b2c309510000089de66",
+              "description": "You have slain the debt collectors. You should inform the preacher that justice has been served.",
+              "conditions": []
+            }
+          ],
+          "parent": "5e4efd2f72e924000072277f",
+          "description": "Laurence the servant has been killed by debt collectors. His mangled corpse was discovered in his home. The preacher should be informed about the death of his servant.",
+          "experience": 20
+        },
+        {
+          "_id": "5e4f703220372d0000a65450",
+          "title": "Follow the debt collectors",
+          "conditions": [],
+          "updates": [
+            {
+              "_id": "5e4f768220372d0000a65456",
+              "description": "You saw the debt collectors head east on Lord's Boulevard.",
+              "conditions": [
+                {
+                  "parameters": [
+                    [
+                      "5e4f7657a74d95d28adebc62",
+                      "5e4f739a20372d0000a65451"
+                    ]
+                  ],
+                  "_id": "5e544956b723c288754aca1a",
+                  "type": "hasSeenNode"
+                }
+              ]
+            },
+            {
+              "_id": "5e500f0c20e7e6000057989a",
+              "conditions": [],
+              "description": "A guard told you that the debt collectors were running toward Selikro Plaza."
+            },
+            {
+              "_id": "5e500f3220e7e6000057989b",
+              "conditions": [
+                {
+                  "parameters": [
+                    [
+                      "5e4ffde8a74d95233bdebcf2",
+                      "5e4ffb964afa7000008131ab"
+                    ]
+                  ],
+                  "_id": "5e55afaeb723c2388e4ad9eb",
+                  "type": "hasSeenNode"
+                }
+              ],
+              "description": "A woman saw the debt-collectors from her balcony. She said that they were heading south to Soma Gardens."
+            },
+            {
+              "_id": "5e532b9e5bd9960000f974ea",
+              "description": "The debt collectors were last seen by a young couple in Soma Gardens. According to the noblewoman, they were entering the walled orchard nearby.",
+              "conditions": []
+            },
+            {
+              "_id": "5e544a6a309510000089de63",
+              "conditions": [
+                {
+                  "parameters": [
+                    [
+                      "5e530133b723c2faa14ac204",
+                      "5e531b72bc938800005e5472"
+                    ]
+                  ],
+                  "_id": "5e55b5fdb723c29d4a4adc8f",
+                  "type": "hasSeenNode"
+                }
+              ],
+              "description": "You followed the debt collectors to a walled orchard in Soma Gardens."
+            },
+            {
+              "_id": "5e55c3d3244b400000a3cd3a",
+              "description": "You backed away from the confrontation with the debt collectors in the orchard. It seems unlikely that you will find them again.",
+              "conditions": []
+            }
+          ],
+          "parent": "5e4efd2f72e924000072277f",
+          "description": "The debt collectors who killed Laurence the servant are likely affiliated with the Khiris Cartel. You might be able to acquire useful information by tracking them down.",
+          "experience": 30
+        }
+      ],
+      "__v": 0,
+      "description": "The local preacher is concerned about his missing servant, who seems to have fallen on hard times. The servant has been neglecting his duties at the church. The preacher asked you to check up on him."
+    }
+  ]
+}

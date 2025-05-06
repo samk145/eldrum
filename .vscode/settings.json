@@ -1,0 +1,24 @@
+{
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": false,
+  "cSpell.words": [
+    "PLAYTHROUGH",
+    "PLAYTHROUGHS",
+    "UUID",
+    "EQUIPPABLE",
+    "LOADOUT",
+    "LOADOUTS",
+    "KNOCKBACK",
+    "ELDRUM"
+  ],
+  "editor.defaultFormatter": "rvest.vs-code-prettier-eslint",
+  "[typescript]": {
+    "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
+  }
+}

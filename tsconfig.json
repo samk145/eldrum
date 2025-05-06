@@ -1,0 +1,30 @@
+{
+  "compilerOptions": {
+    "skipLibCheck": true,
+    "allowJs": true,
+    "outDir": "dist",
+    "declaration": true,
+    "declarationMap": true,
+    "emitDeclarationOnly": false,
+    "resolveJsonModule": true,
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "isolatedModules": true,
+    "moduleResolution": "bundler",
+    "module": "ESNext",
+    "target": "ESNext",
+    "jsx": "react",
+    "lib": ["es2020"],
+    "strict": true,
+    "experimentalDecorators": true,
+    "noEmit": false,
+    "noEmitOnError": false
+  },
+  "include": ["src"],
+  "exclude": [
+    "node_modules",
+    "babel.config.js",
+    "jest.config.js",
+    "(/__tests__/.*|\\.(test|spec))\\.(ts|tsx|js)$"
+  ]
+}

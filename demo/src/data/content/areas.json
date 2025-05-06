@@ -1,0 +1,274 @@
+{
+  "total": 13,
+  "limit": 1500,
+  "skip": 0,
+  "data": [
+    {
+      "_id": "5c7d45f4fd6b495555456b03",
+      "name": "Nameless Island",
+      "_created": "2019-03-04T15:36:20.166Z",
+      "__v": 0,
+      "_updated": "2020-01-22T21:33:22.309Z",
+      "dimensions": {
+        "width": 370,
+        "height": 700
+      },
+      "coordinates": {
+        "x": 50,
+        "y": 50
+      },
+      "zones": [],
+      "audio": [
+        {
+          "loop": true,
+          "media": "5e10ce4576343369975ac8e1",
+          "track": 1,
+          "continueFromPreviousPosition": true
+        }
+      ]
+    },
+    {
+      "_id": "5c8a77b3190288bd85f94cc9",
+      "name": "Dusk Megalith",
+      "dimensions": {
+        "width": 410,
+        "height": 512
+      },
+      "parent": "5c7d45f4fd6b495555456b03",
+      "coordinates": {
+        "x": 232,
+        "y": 67
+      },
+      "_created": "2019-03-14T15:48:03.921Z",
+      "_updated": "2020-01-22T21:33:03.464Z",
+      "zones": [],
+      "__v": 0,
+      "audio": [
+        {
+          "loop": true,
+          "track": 1,
+          "continueFromPreviousPosition": true,
+          "media": "5e10ce457634331b535ac8e0"
+        }
+      ]
+    },
+    {
+      "_id": "5cd9aa913e44ee1d167abb4f",
+      "name": "Underworld",
+      "parent": "5c8a77b3190288bd85f94cc9",
+      "dimensions": {
+        "width": 300,
+        "height": 700
+      },
+      "coordinates": {
+        "x": 193,
+        "y": 448
+      },
+      "_created": "2019-05-13T17:34:09.846Z",
+      "_updated": "2020-01-16T18:53:27.365Z",
+      "zones": [],
+      "__v": 0,
+      "background": "5dd70d7cf75a97084759ea8b",
+      "audio": null
+    },
+    {
+      "_id": "5cda73a8c3e78fc3885bb29b",
+      "name": "Roe Island",
+      "dimensions": {
+        "width": 410,
+        "height": 510
+      },
+      "_created": "2019-05-14T07:52:08.667Z",
+      "_updated": "2020-01-19T11:33:32.556Z",
+      "zones": [],
+      "__v": 0,
+      "audio": [
+        {
+          "loop": true,
+          "track": 1,
+          "continueFromPreviousPosition": true,
+          "media": "5e243e183a36bff7783e426c"
+        }
+      ]
+    },
+    {
+      "_id": "5cda74adc3e78f15685bb2a6",
+      "name": "Town of Set",
+      "dimensions": {
+        "width": 380,
+        "height": 318
+      },
+      "parent": "5cda73a8c3e78fc3885bb29b",
+      "coordinates": {
+        "x": 143,
+        "y": 64
+      },
+      "_created": "2019-05-14T07:56:29.090Z",
+      "_updated": "2020-01-09T13:41:40.605Z",
+      "zones": [],
+      "__v": 0,
+      "audio": [
+        {
+          "media": "5e172d7a763433cab95acd68",
+          "track": 1,
+          "loop": true,
+          "continueFromPreviousPosition": true
+        }
+      ]
+    },
+    {
+      "_id": "5ce461eac3e78f329c5bc869",
+      "name": "Sea of Twilight",
+      "dimensions": {
+        "width": 100,
+        "height": 100
+      },
+      "_created": "2019-05-21T20:39:06.182Z",
+      "_updated": "2020-03-04T15:30:31.043Z",
+      "zones": [],
+      "__v": 0,
+      "audio": [
+        {
+          "loop": true,
+          "volume": 1,
+          "track": 1,
+          "continueFromPreviousPosition": true,
+          "media": "5e46d823a74d957353de4cb8"
+        }
+      ]
+    },
+    {
+      "_id": "5d83d0ed8ec259ad1d100a33",
+      "name": "Graefir Island",
+      "dimensions": {
+        "width": 420,
+        "height": 492
+      },
+      "_created": "2019-09-19T19:03:09.850Z",
+      "_updated": "2020-03-04T22:29:48.166Z",
+      "zones": [],
+      "__v": 0,
+      "audio": [
+        {
+          "loop": true,
+          "volume": 1,
+          "track": 1,
+          "continueFromPreviousPosition": true,
+          "media": "5e601348fe7d0daee76c91ec"
+        }
+      ]
+    },
+    {
+      "_id": "5dbc40c5ff2c19f3c9db772d",
+      "name": "Isle of Bast",
+      "dimensions": {
+        "width": 400,
+        "height": 400
+      },
+      "_created": "2019-11-01T14:27:17.508Z",
+      "_updated": "2020-08-10T15:21:23.852Z",
+      "zones": [],
+      "__v": 0,
+      "audio": [
+        {
+          "loop": true,
+          "volume": 1,
+          "track": 1,
+          "continueFromPreviousPosition": true,
+          "media": "5e6029dffe7d0d4c6d6c94ff"
+        }
+      ]
+    },
+    {
+      "_id": "5dd5b9bdf75a9776df59d7ee",
+      "name": "The Great City of Roeburgh",
+      "dimensions": {
+        "width": 550,
+        "height": 350
+      },
+      "_created": "2019-11-20T22:10:05.562Z",
+      "_updated": "2019-11-20T22:13:08.996Z",
+      "zones": [],
+      "__v": 0,
+      "audio": null
+    },
+    {
+      "_id": "5dd5ba66f75a97dcde59d7f3",
+      "name": "Noble Heights",
+      "dimensions": {
+        "width": 322,
+        "height": 350
+      },
+      "parent": "5dd5b9bdf75a9776df59d7ee",
+      "coordinates": {
+        "x": 406,
+        "y": 55
+      },
+      "_created": "2019-11-20T22:12:54.927Z",
+      "_updated": "2020-03-04T22:27:32.191Z",
+      "zones": [],
+      "__v": 0,
+      "audio": [
+        {
+          "loop": true,
+          "volume": 1,
+          "track": 1,
+          "continueFromPreviousPosition": true,
+          "media": "5e6029b9fe7d0d2bf36c94fe"
+        }
+      ]
+    },
+    {
+      "_id": "5e1df829763433417b5acd81",
+      "name": "Sleep Temple",
+      "parent": "5dd5ba66f75a97dcde59d7f3",
+      "coordinates": {
+        "x": 215,
+        "y": 286
+      },
+      "dimensions": {
+        "width": 340,
+        "height": 290
+      },
+      "_created": "2020-01-14T17:19:37.753Z",
+      "_updated": "2020-03-06T12:46:05.857Z",
+      "zones": [],
+      "__v": 0,
+      "audio": [
+        {
+          "loop": true,
+          "volume": 1,
+          "track": 1,
+          "media": "5e6029b9fe7d0d2bf36c94fe",
+          "continueFromPreviousPosition": true
+        }
+      ]
+    },
+    {
+      "_id": "5e1e21fd763433db695acd84",
+      "name": "Sleep Temple 1F",
+      "dimensions": {
+        "width": 340,
+        "height": 205
+      },
+      "_created": "2020-01-14T20:18:05.469Z",
+      "_updated": "2020-01-14T20:18:05.469Z",
+      "zones": [],
+      "__v": 0,
+      "audio": null
+    },
+    {
+      "_id": "5e1e220f763433671a5acd85",
+      "name": "Sleep Temple 2F",
+      "dimensions": {
+        "width": 340,
+        "height": 205
+      },
+      "_created": "2020-01-14T20:18:23.289Z",
+      "_updated": "2020-01-14T20:18:23.289Z",
+      "zones": [],
+      "__v": 0,
+      "audio": null
+    }
+  ]
+}

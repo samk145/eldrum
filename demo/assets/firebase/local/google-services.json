@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "644353693064",
+    "project_id": "eldrum-engine-dev",
+    "storage_bucket": "eldrum-engine-dev.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644353693064:android:db6672e874da29fe54563d",
+        "android_client_info": {
+          "package_name": "com.actnone.eldrumdemo.local"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6Lo5AGd9F8AjevfCi8UlEkT8W6BuKBgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

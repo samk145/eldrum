@@ -1,0 +1,29 @@
+End User License Agreement
+App License
+
+Fonderie Typographique Coppers and Brasses
+Version 1.0 issued in January 2016
+
+The following is an agreement between the user (You) and Fonderie Typographique Coppers and Brasses (Coppers and Brasses). If you do not accept the terms, you may not complete the purchase of the font software license.
+
+What you are purchasing from Coppers and Brasses is a license to embed font software inside an application operating on a mobile terminal running iOS, Android or Windows Mobile. This license excludes the use of the fonts inside PC or game console applications. All the applications that have the fonts embedded inside them must belong to the licensee organization. You are not purchasing the copyright of the typefaces but the rights to embed the fonts.
+
+The fonts are provided in OpenType (OTF) format. Additional formats are available upon request, and may require the purchase of a different license.
+
+All App Licensing is one-time, perpetual, and upgradable.
+
+You may embed the fonts in the maximum number of applications specified in your license. You can upgrade your license at any time, which allows you to embed the fonts in additional applications.
+
+You must embed the fonts in a secure manner so that they are not made available to the user of the application outside of said application.
+
+You may not use the fonts with any regular computer software without the purchase of a Desktop License.
+
+You may not modify, convert, adapt, decompile or reverse engineer the fonts.
+
+If you do experience any difficulties with our font software within 90 days after the purchase, we will work with you to resolve any technical issues related to it. If, after we have worked to resolve any technical issues, you are still not satisfied with our software, we will be pleased to refund your money, which shall be the limit of our liability in this transaction.
+
+Coppers and Brasses reserves the right to amend or modify this License Agreement at any time and without prior notification.
+
+For any licensing situations not covered in this agreement, please contact us.
+
+Thank you : )

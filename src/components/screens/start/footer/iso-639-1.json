@@ -1,0 +1,912 @@
+[
+  {
+    "639-1 code": "aa",
+    "ISO language name": "Afar",
+    "Native name (endonym)": "Afaraf"
+  },
+  {
+    "639-1 code": "ab",
+    "ISO language name": "Abkhaz",
+    "Native name (endonym)": "аҧсуа бызшәа"
+  },
+  {
+    "639-1 code": "ae",
+    "ISO language name": "Avestan",
+    "Native name (endonym)": "avesta"
+  },
+  {
+    "639-1 code": "af",
+    "ISO language name": "Afrikaans",
+    "Native name (endonym)": "Afrikaans"
+  },
+  {
+    "639-1 code": "ak",
+    "ISO language name": "Akan",
+    "Native name (endonym)": "Akan"
+  },
+  {
+    "639-1 code": "am",
+    "ISO language name": "Amharic",
+    "Native name (endonym)": "አማርኛ"
+  },
+  {
+    "639-1 code": "an",
+    "ISO language name": "Aragonese",
+    "Native name (endonym)": "aragonés"
+  },
+  {
+    "639-1 code": "ar",
+    "ISO language name": "Arabic",
+    "Native name (endonym)": "اللغة العربية"
+  },
+  {
+    "639-1 code": "as",
+    "ISO language name": "Assamese",
+    "Native name (endonym)": "অসমীয়া"
+  },
+  {
+    "639-1 code": "av",
+    "ISO language name": "Avaric",
+    "Native name (endonym)": "авар мацӀ"
+  },
+  {
+    "639-1 code": "ay",
+    "ISO language name": "Aymara",
+    "Native name (endonym)": "aymar aru"
+  },
+  {
+    "639-1 code": "az",
+    "ISO language name": "Azerbaijani",
+    "Native name (endonym)": "azərbaycan dili"
+  },
+  {
+    "639-1 code": "ba",
+    "ISO language name": "Bashkir",
+    "Native name (endonym)": "башҡорт теле"
+  },
+  {
+    "639-1 code": "be",
+    "ISO language name": "Belarusian",
+    "Native name (endonym)": "беларуская мова"
+  },
+  {
+    "639-1 code": "bg",
+    "ISO language name": "Bulgarian",
+    "Native name (endonym)": "български език"
+  },
+  {
+    "639-1 code": "bh",
+    "ISO language name": "Bihari",
+    "Native name (endonym)": "भोजपुरी"
+  },
+  {
+    "639-1 code": "bi",
+    "ISO language name": "Bislama",
+    "Native name (endonym)": "Bislama"
+  },
+  {
+    "639-1 code": "bm",
+    "ISO language name": "Bambara",
+    "Native name (endonym)": "bamanankan"
+  },
+  {
+    "639-1 code": "bn",
+    "ISO language name": "Bengali",
+    "Native name (endonym)": "বাংলা"
+  },
+  {
+    "639-1 code": "bo",
+    "ISO language name": "Tibetan",
+    "Native name (endonym)": "བོད་ཡིག"
+  },
+  {
+    "639-1 code": "br",
+    "ISO language name": "Breton",
+    "Native name (endonym)": "brezhoneg"
+  },
+  {
+    "639-1 code": "bs",
+    "ISO language name": "Bosnian",
+    "Native name (endonym)": "bosanski jezik"
+  },
+  {
+    "639-1 code": "ca",
+    "ISO language name": "Catalan",
+    "Native name (endonym)": "Català"
+  },
+  {
+    "639-1 code": "ce",
+    "ISO language name": "Chechen",
+    "Native name (endonym)": "нохчийн мотт"
+  },
+  {
+    "639-1 code": "ch",
+    "ISO language name": "Chamorro",
+    "Native name (endonym)": "Chamoru"
+  },
+  {
+    "639-1 code": "co",
+    "ISO language name": "Corsican",
+    "Native name (endonym)": "corsu"
+  },
+  {
+    "639-1 code": "cr",
+    "ISO language name": "Cree",
+    "Native name (endonym)": "ᓀᐦᐃᔭᐍᐏᐣ"
+  },
+  {
+    "639-1 code": "cs",
+    "ISO language name": "Czech",
+    "Native name (endonym)": "čeština"
+  },
+  {
+    "639-1 code": "cu",
+    "ISO language name": "Old Church Slavonic",
+    "Native name (endonym)": "ѩзыкъ словѣньскъ"
+  },
+  {
+    "639-1 code": "cv",
+    "ISO language name": "Chuvash",
+    "Native name (endonym)": "чӑваш чӗлхи"
+  },
+  {
+    "639-1 code": "cy",
+    "ISO language name": "Welsh",
+    "Native name (endonym)": "Cymraeg"
+  },
+  {
+    "639-1 code": "da",
+    "ISO language name": "Danish",
+    "Native name (endonym)": "dansk"
+  },
+  {
+    "639-1 code": "de",
+    "ISO language name": "German",
+    "Native name (endonym)": "Deutsch"
+  },
+  {
+    "639-1 code": "dv",
+    "ISO language name": "Divehi",
+    "Native name (endonym)": "Dhivehi"
+  },
+  {
+    "639-1 code": "dz",
+    "ISO language name": "Dzongkha",
+    "Native name (endonym)": "རྫོང་ཁ"
+  },
+  {
+    "639-1 code": "ee",
+    "ISO language name": "Ewe",
+    "Native name (endonym)": "Eʋegbe"
+  },
+  {
+    "639-1 code": "el",
+    "ISO language name": "Greek",
+    "Native name (endonym)": "Ελληνικά"
+  },
+  {
+    "639-1 code": "en",
+    "ISO language name": "English",
+    "Native name (endonym)": "English"
+  },
+  {
+    "639-1 code": "eo",
+    "ISO language name": "Esperanto",
+    "Native name (endonym)": "Esperanto"
+  },
+  {
+    "639-1 code": "es",
+    "ISO language name": "Spanish",
+    "Native name (endonym)": "Español"
+  },
+  {
+    "639-1 code": "et",
+    "ISO language name": "Estonian",
+    "Native name (endonym)": "eesti"
+  },
+  {
+    "639-1 code": "eu",
+    "ISO language name": "Basque",
+    "Native name (endonym)": "euskara"
+  },
+  {
+    "639-1 code": "fa",
+    "ISO language name": "Persian",
+    "Native name (endonym)": "فارسی"
+  },
+  {
+    "639-1 code": "ff",
+    "ISO language name": "Fula",
+    "Native name (endonym)": "Fulfulde"
+  },
+  {
+    "639-1 code": "fi",
+    "ISO language name": "Finnish",
+    "Native name (endonym)": "suomi"
+  },
+  {
+    "639-1 code": "fj",
+    "ISO language name": "Fijian",
+    "Native name (endonym)": "Vakaviti"
+  },
+  {
+    "639-1 code": "fo",
+    "ISO language name": "Faroese",
+    "Native name (endonym)": "føroyskt"
+  },
+  {
+    "639-1 code": "fr",
+    "ISO language name": "French",
+    "Native name (endonym)": "Français"
+  },
+  {
+    "639-1 code": "fy",
+    "ISO language name": "Western Frisian",
+    "Native name (endonym)": "Frysk"
+  },
+  {
+    "639-1 code": "ga",
+    "ISO language name": "Irish",
+    "Native name (endonym)": "Gaeilge"
+  },
+  {
+    "639-1 code": "gd",
+    "ISO language name": "Scottish Gaelic",
+    "Native name (endonym)": "Gàidhlig"
+  },
+  {
+    "639-1 code": "gl",
+    "ISO language name": "Galician",
+    "Native name (endonym)": "galego"
+  },
+  {
+    "639-1 code": "gu",
+    "ISO language name": "Gujarati",
+    "Native name (endonym)": "ગુજરાતી"
+  },
+  {
+    "639-1 code": "gv",
+    "ISO language name": "Manx",
+    "Native name (endonym)": "Gaelg"
+  },
+  {
+    "639-1 code": "ha",
+    "ISO language name": "Hausa",
+    "Native name (endonym)": "هَوُسَ"
+  },
+  {
+    "639-1 code": "he",
+    "ISO language name": "Hebrew",
+    "Native name (endonym)": "עברית"
+  },
+  {
+    "639-1 code": "hi",
+    "ISO language name": "Hindi",
+    "Native name (endonym)": "हिन्दी"
+  },
+  {
+    "639-1 code": "ho",
+    "ISO language name": "Hiri Motu",
+    "Native name (endonym)": "Hiri Motu"
+  },
+  {
+    "639-1 code": "hr",
+    "ISO language name": "Croatian",
+    "Native name (endonym)": "Hrvatski"
+  },
+  {
+    "639-1 code": "ht",
+    "ISO language name": "Haitian",
+    "Native name (endonym)": "Kreyòl ayisyen"
+  },
+  {
+    "639-1 code": "hu",
+    "ISO language name": "Hungarian",
+    "Native name (endonym)": "magyar"
+  },
+  {
+    "639-1 code": "hy",
+    "ISO language name": "Armenian",
+    "Native name (endonym)": "Հայերեն"
+  },
+  {
+    "639-1 code": "hz",
+    "ISO language name": "Herero",
+    "Native name (endonym)": "Otjiherero"
+  },
+  {
+    "639-1 code": "ia",
+    "ISO language name": "Interlingua",
+    "Native name (endonym)": "Interlingua"
+  },
+  {
+    "639-1 code": "id",
+    "ISO language name": "Indonesian",
+    "Native name (endonym)": "Bahasa Indonesia"
+  },
+  {
+    "639-1 code": "ie",
+    "ISO language name": "Interlingue",
+    "Native name (endonym)": "Interlingue"
+  },
+  {
+    "639-1 code": "ig",
+    "ISO language name": "Igbo",
+    "Native name (endonym)": "Asụsụ Igbo"
+  },
+  {
+    "639-1 code": "ii",
+    "ISO language name": "Nuosu",
+    "Native name (endonym)": "ꆈꌠ꒿ Nuosuhxop"
+  },
+  {
+    "639-1 code": "ik",
+    "ISO language name": "Inupiaq",
+    "Native name (endonym)": "Iñupiaq"
+  },
+  {
+    "639-1 code": "io",
+    "ISO language name": "Ido",
+    "Native name (endonym)": "Ido"
+  },
+  {
+    "639-1 code": "is",
+    "ISO language name": "Icelandic",
+    "Native name (endonym)": "Íslenska"
+  },
+  {
+    "639-1 code": "it",
+    "ISO language name": "Italian",
+    "Native name (endonym)": "Italiano"
+  },
+  {
+    "639-1 code": "iu",
+    "ISO language name": "Inuktitut",
+    "Native name (endonym)": "ᐃᓄᒃᑎᑐᑦ"
+  },
+  {
+    "639-1 code": "ja",
+    "ISO language name": "Japanese",
+    "Native name (endonym)": "日本語"
+  },
+  {
+    "639-1 code": "jv",
+    "ISO language name": "Javanese",
+    "Native name (endonym)": "basa Jawa"
+  },
+  {
+    "639-1 code": "ka",
+    "ISO language name": "Georgian",
+    "Native name (endonym)": "ქართული"
+  },
+  {
+    "639-1 code": "kg",
+    "ISO language name": "Kongo",
+    "Native name (endonym)": "Kikongo"
+  },
+  {
+    "639-1 code": "ki",
+    "ISO language name": "Kikuyu",
+    "Native name (endonym)": "Gĩkũyũ"
+  },
+  {
+    "639-1 code": "kj",
+    "ISO language name": "Kwanyama",
+    "Native name (endonym)": "Kuanyama"
+  },
+  {
+    "639-1 code": "kk",
+    "ISO language name": "Kazakh",
+    "Native name (endonym)": "қазақ тілі"
+  },
+  {
+    "639-1 code": "kl",
+    "ISO language name": "Kalaallisut",
+    "Native name (endonym)": "kalaallisut"
+  },
+  {
+    "639-1 code": "km",
+    "ISO language name": "Khmer",
+    "Native name (endonym)": "ខេមរភាសា"
+  },
+  {
+    "639-1 code": "kn",
+    "ISO language name": "Kannada",
+    "Native name (endonym)": "ಕನ್ನಡ"
+  },
+  {
+    "639-1 code": "ko",
+    "ISO language name": "Korean",
+    "Native name (endonym)": "한국어"
+  },
+  {
+    "639-1 code": "kr",
+    "ISO language name": "Kanuri",
+    "Native name (endonym)": "Kanuri"
+  },
+  {
+    "639-1 code": "ks",
+    "ISO language name": "Kashmiri",
+    "Native name (endonym)": "कश्मीरी"
+  },
+  {
+    "639-1 code": "ku",
+    "ISO language name": "Kurdish",
+    "Native name (endonym)": "Kurdî"
+  },
+  {
+    "639-1 code": "kv",
+    "ISO language name": "Komi",
+    "Native name (endonym)": "коми кыв"
+  },
+  {
+    "639-1 code": "kw",
+    "ISO language name": "Cornish",
+    "Native name (endonym)": "Kernewek"
+  },
+  {
+    "639-1 code": "ky",
+    "ISO language name": "Kyrgyz",
+    "Native name (endonym)": "Кыргызча"
+  },
+  {
+    "639-1 code": "la",
+    "ISO language name": "Latin",
+    "Native name (endonym)": "latine"
+  },
+  {
+    "639-1 code": "lb",
+    "ISO language name": "Luxembourgish",
+    "Native name (endonym)": "Lëtzebuergesch"
+  },
+  {
+    "639-1 code": "lg",
+    "ISO language name": "Ganda",
+    "Native name (endonym)": "Luganda"
+  },
+  {
+    "639-1 code": "li",
+    "ISO language name": "Limburgish",
+    "Native name (endonym)": "Limburgs"
+  },
+  {
+    "639-1 code": "ln",
+    "ISO language name": "Lingala",
+    "Native name (endonym)": "Lingála"
+  },
+  {
+    "639-1 code": "lo",
+    "ISO language name": "Lao",
+    "Native name (endonym)": "ພາສາ"
+  },
+  {
+    "639-1 code": "lt",
+    "ISO language name": "Lithuanian",
+    "Native name (endonym)": "lietuvių kalba"
+  },
+  {
+    "639-1 code": "lu",
+    "ISO language name": "Luba-Katanga",
+    "Native name (endonym)": "Tshiluba"
+  },
+  {
+    "639-1 code": "lv",
+    "ISO language name": "Latvian",
+    "Native name (endonym)": "latviešu valoda"
+  },
+  {
+    "639-1 code": "mg",
+    "ISO language name": "Malagasy",
+    "Native name (endonym)": "fiteny malagasy"
+  },
+  {
+    "639-1 code": "mh",
+    "ISO language name": "Marshallese",
+    "Native name (endonym)": "Kajin M̧ajeļ"
+  },
+  {
+    "639-1 code": "mi",
+    "ISO language name": "Māori",
+    "Native name (endonym)": "te reo Māori"
+  },
+  {
+    "639-1 code": "mk",
+    "ISO language name": "Macedonian",
+    "Native name (endonym)": "македонски јазик"
+  },
+  {
+    "639-1 code": "ml",
+    "ISO language name": "Malayalam",
+    "Native name (endonym)": "മലയാളം"
+  },
+  {
+    "639-1 code": "mn",
+    "ISO language name": "Mongolian",
+    "Native name (endonym)": "Монгол хэл"
+  },
+  {
+    "639-1 code": "mr",
+    "ISO language name": "Marathi",
+    "Native name (endonym)": "मराठी"
+  },
+  {
+    "639-1 code": "ms",
+    "ISO language name": "Malay",
+    "Native name (endonym)": "Bahasa Malaysia"
+  },
+  {
+    "639-1 code": "mt",
+    "ISO language name": "Maltese",
+    "Native name (endonym)": "Malti"
+  },
+  {
+    "639-1 code": "my",
+    "ISO language name": "Burmese",
+    "Native name (endonym)": "ဗမာစာ"
+  },
+  {
+    "639-1 code": "na",
+    "ISO language name": "Nauru",
+    "Native name (endonym)": "Ekakairũ Naoero"
+  },
+  {
+    "639-1 code": "nb",
+    "ISO language name": "Norwegian Bokmål",
+    "Native name (endonym)": "Norsk bokmål"
+  },
+  {
+    "639-1 code": "nd",
+    "ISO language name": "Northern Ndebele",
+    "Native name (endonym)": "isiNdebele"
+  },
+  {
+    "639-1 code": "ne",
+    "ISO language name": "Nepali",
+    "Native name (endonym)": "नेपाली"
+  },
+  {
+    "639-1 code": "ng",
+    "ISO language name": "Ndonga",
+    "Native name (endonym)": "Owambo"
+  },
+  {
+    "639-1 code": "nl",
+    "ISO language name": "Dutch",
+    "Native name (endonym)": "Nederlands"
+  },
+  {
+    "639-1 code": "nn",
+    "ISO language name": "Norwegian Nynorsk",
+    "Native name (endonym)": "Norsk nynorsk"
+  },
+  {
+    "639-1 code": "no",
+    "ISO language name": "Norwegian",
+    "Native name (endonym)": "Norsk"
+  },
+  {
+    "639-1 code": "nr",
+    "ISO language name": "Southern Ndebele",
+    "Native name (endonym)": "isiNdebele"
+  },
+  {
+    "639-1 code": "nv",
+    "ISO language name": "Navajo",
+    "Native name (endonym)": "Diné bizaad"
+  },
+  {
+    "639-1 code": "ny",
+    "ISO language name": "Chichewa",
+    "Native name (endonym)": "chiCheŵa"
+  },
+  {
+    "639-1 code": "oc",
+    "ISO language name": "Occitan",
+    "Native name (endonym)": "occitan"
+  },
+  {
+    "639-1 code": "oj",
+    "ISO language name": "Ojibwe",
+    "Native name (endonym)": "ᐊᓂᔑᓈᐯᒧᐎᓐ"
+  },
+  {
+    "639-1 code": "om",
+    "ISO language name": "Oromo",
+    "Native name (endonym)": "Afaan Oromoo"
+  },
+  {
+    "639-1 code": "or",
+    "ISO language name": "Oriya",
+    "Native name (endonym)": "ଓଡ଼ିଆ"
+  },
+  {
+    "639-1 code": "os",
+    "ISO language name": "Ossetian",
+    "Native name (endonym)": "ирон æвзаг"
+  },
+  {
+    "639-1 code": "pa",
+    "ISO language name": "Panjabi",
+    "Native name (endonym)": "ਪੰਜਾਬੀ"
+  },
+  {
+    "639-1 code": "pi",
+    "ISO language name": "Pāli",
+    "Native name (endonym)": "पाऴि"
+  },
+  {
+    "639-1 code": "pl",
+    "ISO language name": "Polish",
+    "Native name (endonym)": "Polski"
+  },
+  {
+    "639-1 code": "ps",
+    "ISO language name": "Pashto",
+    "Native name (endonym)": "پښتو"
+  },
+  {
+    "639-1 code": "pt",
+    "ISO language name": "Portuguese",
+    "Native name (endonym)": "Português"
+  },
+  {
+    "639-1 code": "qu",
+    "ISO language name": "Quechua",
+    "Native name (endonym)": "Runa Simi"
+  },
+  {
+    "639-1 code": "rm",
+    "ISO language name": "Romansh",
+    "Native name (endonym)": "rumantsch grischun"
+  },
+  {
+    "639-1 code": "rn",
+    "ISO language name": "Kirundi",
+    "Native name (endonym)": "Ikirundi"
+  },
+  {
+    "639-1 code": "ro",
+    "ISO language name": "Romanian",
+    "Native name (endonym)": "Română"
+  },
+  {
+    "639-1 code": "ru",
+    "ISO language name": "Russian",
+    "Native name (endonym)": "Русский"
+  },
+  {
+    "639-1 code": "rw",
+    "ISO language name": "Kinyarwanda",
+    "Native name (endonym)": "Ikinyarwanda"
+  },
+  {
+    "639-1 code": "sa",
+    "ISO language name": "Sanskrit",
+    "Native name (endonym)": "संस्कृतम्"
+  },
+  {
+    "639-1 code": "sc",
+    "ISO language name": "Sardinian",
+    "Native name (endonym)": "sardu"
+  },
+  {
+    "639-1 code": "sd",
+    "ISO language name": "Sindhi",
+    "Native name (endonym)": "सिन्धी"
+  },
+  {
+    "639-1 code": "se",
+    "ISO language name": "Northern Sami",
+    "Native name (endonym)": "Davvisámegiella"
+  },
+  {
+    "639-1 code": "sg",
+    "ISO language name": "Sango",
+    "Native name (endonym)": "yângâ tî sängö"
+  },
+  {
+    "639-1 code": "si",
+    "ISO language name": "Sinhala",
+    "Native name (endonym)": "සිංහල"
+  },
+  {
+    "639-1 code": "sk",
+    "ISO language name": "Slovak",
+    "Native name (endonym)": "slovenčina"
+  },
+  {
+    "639-1 code": "sl",
+    "ISO language name": "Slovenian",
+    "Native name (endonym)": "slovenščina"
+  },
+  {
+    "639-1 code": "sn",
+    "ISO language name": "Shona",
+    "Native name (endonym)": "chiShona"
+  },
+  {
+    "639-1 code": "so",
+    "ISO language name": "Somali",
+    "Native name (endonym)": "Soomaaliga"
+  },
+  {
+    "639-1 code": "sq",
+    "ISO language name": "Albanian",
+    "Native name (endonym)": "Shqip"
+  },
+  {
+    "639-1 code": "sr",
+    "ISO language name": "Serbian",
+    "Native name (endonym)": "српски језик"
+  },
+  {
+    "639-1 code": "ss",
+    "ISO language name": "Swati",
+    "Native name (endonym)": "SiSwati"
+  },
+  {
+    "639-1 code": "st",
+    "ISO language name": "Southern Sotho",
+    "Native name (endonym)": "Sesotho"
+  },
+  {
+    "639-1 code": "su",
+    "ISO language name": "Sundanese",
+    "Native name (endonym)": "Basa Sunda"
+  },
+  {
+    "639-1 code": "sv",
+    "ISO language name": "Swedish",
+    "Native name (endonym)": "Svenska"
+  },
+  {
+    "639-1 code": "sw",
+    "ISO language name": "Swahili",
+    "Native name (endonym)": "Kiswahili"
+  },
+  {
+    "639-1 code": "ta",
+    "ISO language name": "Tamil",
+    "Native name (endonym)": "தமிழ்"
+  },
+  {
+    "639-1 code": "te",
+    "ISO language name": "Telugu",
+    "Native name (endonym)": "తెలుగు"
+  },
+  {
+    "639-1 code": "tg",
+    "ISO language name": "Tajik",
+    "Native name (endonym)": "тоҷикӣ"
+  },
+  {
+    "639-1 code": "th",
+    "ISO language name": "Thai",
+    "Native name (endonym)": "ไทย"
+  },
+  {
+    "639-1 code": "ti",
+    "ISO language name": "Tigrinya",
+    "Native name (endonym)": "ትግርኛ"
+  },
+  {
+    "639-1 code": "tk",
+    "ISO language name": "Turkmen",
+    "Native name (endonym)": "Türkmen"
+  },
+  {
+    "639-1 code": "tl",
+    "ISO language name": "Tagalog",
+    "Native name (endonym)": "Wikang Tagalog"
+  },
+  {
+    "639-1 code": "tn",
+    "ISO language name": "Tswana",
+    "Native name (endonym)": "Setswana"
+  },
+  {
+    "639-1 code": "to",
+    "ISO language name": "Tonga",
+    "Native name (endonym)": "faka Tonga"
+  },
+  {
+    "639-1 code": "tr",
+    "ISO language name": "Turkish",
+    "Native name (endonym)": "Türkçe"
+  },
+  {
+    "639-1 code": "ts",
+    "ISO language name": "Tsonga",
+    "Native name (endonym)": "Xitsonga"
+  },
+  {
+    "639-1 code": "tt",
+    "ISO language name": "Tatar",
+    "Native name (endonym)": "татар теле"
+  },
+  {
+    "639-1 code": "tw",
+    "ISO language name": "Twi",
+    "Native name (endonym)": "Twi"
+  },
+  {
+    "639-1 code": "ty",
+    "ISO language name": "Tahitian",
+    "Native name (endonym)": "Reo Tahiti"
+  },
+  {
+    "639-1 code": "ug",
+    "ISO language name": "Uyghur",
+    "Native name (endonym)": "ئۇيغۇرچە‎"
+  },
+  {
+    "639-1 code": "uk",
+    "ISO language name": "Ukrainian",
+    "Native name (endonym)": "Українська"
+  },
+  {
+    "639-1 code": "ur",
+    "ISO language name": "Urdu",
+    "Native name (endonym)": "اردو"
+  },
+  {
+    "639-1 code": "uz",
+    "ISO language name": "Uzbek",
+    "Native name (endonym)": "Ўзбек"
+  },
+  {
+    "639-1 code": "ve",
+    "ISO language name": "Venda",
+    "Native name (endonym)": "Tshivenḓa"
+  },
+  {
+    "639-1 code": "vi",
+    "ISO language name": "Vietnamese",
+    "Native name (endonym)": "Tiếng Việt"
+  },
+  {
+    "639-1 code": "vo",
+    "ISO language name": "Volapük",
+    "Native name (endonym)": "Volapük"
+  },
+  {
+    "639-1 code": "wa",
+    "ISO language name": "Walloon",
+    "Native name (endonym)": "walon"
+  },
+  {
+    "639-1 code": "wo",
+    "ISO language name": "Wolof",
+    "Native name (endonym)": "Wollof"
+  },
+  {
+    "639-1 code": "xh",
+    "ISO language name": "Xhosa",
+    "Native name (endonym)": "isiXhosa"
+  },
+  {
+    "639-1 code": "yi",
+    "ISO language name": "Yiddish",
+    "Native name (endonym)": "ייִדיש"
+  },
+  {
+    "639-1 code": "yo",
+    "ISO language name": "Yoruba",
+    "Native name (endonym)": "Yorùbá"
+  },
+  {
+    "639-1 code": "za",
+    "ISO language name": "Zhuang",
+    "Native name (endonym)": "Saɯ cueŋƅ"
+  },
+  {
+    "639-1 code": "zh",
+    "ISO language name": "Chinese",
+    "Native name (endonym)": "中文"
+  },
+  {
+    "639-1 code": "zu",
+    "ISO language name": "Zulu",
+    "Native name (endonym)": "isiZulu"
+  }
+]
